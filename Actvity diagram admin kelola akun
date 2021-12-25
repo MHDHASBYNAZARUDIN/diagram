@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T11:00:05.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0XB9qoD47gIVCJhE-naG" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-25T11:27:11.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WuvunueCgUFIZhnlk8h8" version="16.1.0" type="github">
   <diagram id="ai4o5x2iwrMzLDRehMaI" name="Page-1">
-    <mxGraphModel dx="2170" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
         <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="s_6OWQ1pCd8ZXUxg-IPL-16" target="s_6OWQ1pCd8ZXUxg-IPL-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-16" value="menekan menu data akun" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-16" value="menekan menu data anggota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="233" y="310" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="s_6OWQ1pCd8ZXUxg-IPL-18" target="s_6OWQ1pCd8ZXUxg-IPL-22">
@@ -70,13 +70,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-18" value="menampilkan data akun singkat" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-18" value="menampilkan data anggota singkat" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="670" y="310" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="s_6OWQ1pCd8ZXUxg-IPL-21" target="s_6OWQ1pCd8ZXUxg-IPL-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-21" value="hapus akun" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-21" value="hapus anggota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="397" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="s_6OWQ1pCd8ZXUxg-IPL-22" target="s_6OWQ1pCd8ZXUxg-IPL-21">
@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-25" value="tambah akun" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-25" value="tambah anggota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="243" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M609TQmLIKgR1A1krM8N-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="s_6OWQ1pCd8ZXUxg-IPL-27" target="M609TQmLIKgR1A1krM8N-12">
@@ -108,7 +108,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-27" value="ubah akun" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="s_6OWQ1pCd8ZXUxg-IPL-27" value="ubah data anggota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M609TQmLIKgR1A1krM8N-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeWidth=1;jumpStyle=arc;" edge="1" parent="1" source="s_6OWQ1pCd8ZXUxg-IPL-29" target="s_6OWQ1pCd8ZXUxg-IPL-18">
@@ -129,20 +129,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M609TQmLIKgR1A1krM8N-2" value="menampilkan form tambah akun" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="M609TQmLIKgR1A1krM8N-2" value="menampilkan form tambah anggota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="672" y="760" width="146" height="76" as="geometry" />
         </mxCell>
         <mxCell id="M609TQmLIKgR1A1krM8N-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=1;" edge="1" parent="1" source="M609TQmLIKgR1A1krM8N-5" target="M609TQmLIKgR1A1krM8N-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M609TQmLIKgR1A1krM8N-5" value="mengisi form tambah akun" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="233" y="852" width="120" height="70" as="geometry" />
+        <mxCell id="M609TQmLIKgR1A1krM8N-5" value="mengisi form tambah anggota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="233" y="852" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="M609TQmLIKgR1A1krM8N-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeWidth=3;" edge="1" parent="1" source="M609TQmLIKgR1A1krM8N-7" target="M609TQmLIKgR1A1krM8N-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M609TQmLIKgR1A1krM8N-7" value="menekan tombol simpan" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="227" y="989" width="130" height="70" as="geometry" />
+          <mxGeometry x="232" y="989" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="M609TQmLIKgR1A1krM8N-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;strokeWidth=1;" edge="1" parent="1" source="M609TQmLIKgR1A1krM8N-9" target="s_6OWQ1pCd8ZXUxg-IPL-18">
           <mxGeometry relative="1" as="geometry">
@@ -162,7 +162,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M609TQmLIKgR1A1krM8N-12" value="menampilkan form ubah data akun" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="M609TQmLIKgR1A1krM8N-12" value="menampilkan form ubah data anggota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="672" y="1100" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="M609TQmLIKgR1A1krM8N-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" edge="1" parent="1" source="M609TQmLIKgR1A1krM8N-14" target="M609TQmLIKgR1A1krM8N-7">
@@ -174,7 +174,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M609TQmLIKgR1A1krM8N-14" value="mengisi form ubah data akun" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="M609TQmLIKgR1A1krM8N-14" value="mengisi form ubah data anggota" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="217" y="1180" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="M609TQmLIKgR1A1krM8N-17" value="" style="strokeWidth=5;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=16;fillColor=#000000;strokeColor=#FFFFFF;perimeterSpacing=0;shadow=0;sketch=0;" vertex="1" parent="1">
