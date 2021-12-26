@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T12:18:34.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.0" etag="yelx66XxHUaVwazhoz70" type="github"><diagram id="yfEmjPtyKFdQTvoEBbvA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-26T12:28:26.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Q-2E7XuP_BaLNlylA5s_" version="16.1.0" type="github">
+  <diagram id="yfEmjPtyKFdQTvoEBbvA" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZJq45OfU2o_RMiKpjPNH-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="440" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJq45OfU2o_RMiKpjPNH-1" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.textfield;align=center;strokeColor=#4D4D4D;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJq45OfU2o_RMiKpjPNH-2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.textfield;align=center;strokeColor=#4D4D4D;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJq45OfU2o_RMiKpjPNH-4" value="email" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="276" y="218" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJq45OfU2o_RMiKpjPNH-5" value="password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="270" y="279" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJq45OfU2o_RMiKpjPNH-6" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="447" y="153" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJq45OfU2o_RMiKpjPNH-7" value="Logo Perguruan" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="417" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
