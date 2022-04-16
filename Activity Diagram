@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-16T13:03:16.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="TnwQWGP9O4Us3tE8UWgV" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-16T13:47:36.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Re9ri3q30nrXhnA9vuSS" version="16.5.6" type="github">
   <diagram id="wJy6cZaMYGYDjDs5JqBS" name="Page-1">
-    <mxGraphModel dx="1575" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1150" pageHeight="100" math="0" shadow="0">
+    <mxGraphModel dx="2593" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1150" pageHeight="100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="rd6UgmXOLci3P9RoIJpl-36" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rd6UgmXOLci3P9RoIJpl-35">
           <mxGeometry width="1130" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="rd6UgmXOLci3P9RoIJpl-37" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Admin&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=18;" vertex="1" parent="rd6UgmXOLci3P9RoIJpl-36">
+        <mxCell id="rd6UgmXOLci3P9RoIJpl-37" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Pengurus Cabang&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=18;" vertex="1" parent="rd6UgmXOLci3P9RoIJpl-36">
           <mxGeometry width="402" height="47" as="geometry">
             <mxRectangle width="402" height="47" as="alternateBounds" />
           </mxGeometry>
@@ -109,7 +109,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rd6UgmXOLci3P9RoIJpl-59" value="&lt;font style=&quot;font-size: 16px&quot;&gt;menekan menu data surat&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="rd6UgmXOLci3P9RoIJpl-59" value="&lt;font style=&quot;font-size: 16px&quot;&gt;menekan menu data laporan&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="471.5" width="135" height="79" as="geometry" />
         </mxCell>
         <mxCell id="rd6UgmXOLci3P9RoIJpl-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="rd6UgmXOLci3P9RoIJpl-61" target="rd6UgmXOLci3P9RoIJpl-63">
@@ -132,7 +132,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rd6UgmXOLci3P9RoIJpl-61" value="&lt;font style=&quot;font-size: 16px&quot;&gt;menampilkan data surat singkat&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="rd6UgmXOLci3P9RoIJpl-61" value="&lt;font style=&quot;font-size: 16px&quot;&gt;menampilkan data laporan singkat&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="503.75" y="580" width="147.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rd6UgmXOLci3P9RoIJpl-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="rd6UgmXOLci3P9RoIJpl-63" target="rd6UgmXOLci3P9RoIJpl-68">
@@ -151,9 +151,6 @@
               <mxPoint x="335" y="770" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rd6UgmXOLci3P9RoIJpl-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="rd6UgmXOLci3P9RoIJpl-63" target="rd6UgmXOLci3P9RoIJpl-110">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rd6UgmXOLci3P9RoIJpl-63" value="pilihan aktivitas" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="131" y="700" width="140" height="140" as="geometry" />
@@ -253,29 +250,6 @@
         </mxCell>
         <mxCell id="rd6UgmXOLci3P9RoIJpl-100" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="544" y="1490" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rd6UgmXOLci3P9RoIJpl-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="rd6UgmXOLci3P9RoIJpl-110" target="rd6UgmXOLci3P9RoIJpl-112">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="10" y="680" />
-              <mxPoint x="10" y="1090" />
-              <mxPoint x="654" y="1090" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rd6UgmXOLci3P9RoIJpl-110" value="&lt;font style=&quot;font-size: 16px&quot;&gt;cetak surat&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="22" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="rd6UgmXOLci3P9RoIJpl-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=22;startArrow=none;startFill=0;endArrow=classic;endFill=1;endSize=6;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="rd6UgmXOLci3P9RoIJpl-112" target="rd6UgmXOLci3P9RoIJpl-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="810" y="1160" />
-              <mxPoint x="810" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rd6UgmXOLci3P9RoIJpl-112" value="&lt;font style=&quot;font-size: 16px&quot;&gt;download file surat&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="594" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
